@@ -1,0 +1,5 @@
+name: Instantrespawn
+version: '${project.version}'
+main: missingdrift.instantrespawn.Instantrespawn
+api-version: 1.19
+authors: [ MissingDrift ]

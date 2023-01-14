@@ -1,0 +1,6 @@
+# CONFIGURATION
+
+# Keep inventory on death
+keep-inventory: true
+# If it set to 'false' it means it won't keep the death message
+keep-death-message: false
